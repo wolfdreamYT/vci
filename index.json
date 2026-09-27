@@ -1,0 +1,23 @@
+{
+  "vci": {
+    "version": "1.0",
+    "users": [
+      {
+        "id": "VCI-0001",
+        "username": "wolfdream226",
+        "real_name": "nicholas-machan",
+        "status": "active",
+        "collector": "true",
+        "joined_on": "2026-09-27",
+        "profile": {
+          "collection": "The Singles, REMIX26, BestOf24-26",
+          "Verificode": "AB12-CZ93-GH51-MI74-WE99-DZ06"
+        },
+        "contact": {
+          "instagram": "https://www.instagram.com/wolfdream226/",
+          "facebook": "null"
+        }
+      }
+    ]
+  }
+}
